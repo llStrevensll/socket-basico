@@ -7,3 +7,5 @@ Recuerden que deben de reconstruir los módulos de node con el comando
 ```
 npm install
 ```
+
+Se adicionaron los conceptos basicos de sockets - listo para producción (funcionando en heroku)
